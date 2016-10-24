@@ -1,0 +1,130 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0 auto;
+}
+
+header#principal{
+	width:1170px;
+	height: 250px;
+	background-color: #f5f5f5;
+}
+
+header section#topo{
+	width: 1170px;
+	height: 30px;
+	background-color: #004B97;
+}
+
+header section#menu{
+	width: 1170px;
+	height: 30px;
+	background-color: #002753;
+}
+
+section#todo{
+	width: 1170px;
+	height: 120px;
+	background-color: #187E8A;
+}
+
+aside#logo{
+	width: 236px;
+	background: #999;
+	height: 120px;
+	float:left;
+
+}
+aside#cursos{
+	width: 746px;
+	background-color: #888;
+	height: 120px;
+	float:right;
+}
+
+#navegacao{
+	float:left;
+}
+#conteudo{
+	float:right;
+}
+#slideshow{
+	clear: both;
+	width: 746px;
+	background-color: #693572;
+	height: 200px;
+}
+
+#noticias{
+	width: 746px;
+	margin-top: 20px;
+}
+
+#noticia1, #noticia2{
+	width: 373px;
+	height: 210px;
+}
+#noticia3, #noticia4, #noticia5, #noticia6, #noticia7, #noticia8{
+	width: 245px;
+	height: 154px;
+}
+
+#noticia1{
+	float: left;
+	background: url('noticia1.jpg')right top no-repeat #DDEEEE; height: 153px; width: 364px;
+}
+#noticia1 h1{
+	color: #FFFFFF;
+	width: 150px;
+	padding-top: 120px;
+}
+#noticia2{
+	float: right;
+	background: url('noticia2.jpg')right top no-repeat #DDEEEE; height: 153px; width: 364px;
+}
+#noticias{
+	clear: both;
+}
+#noticia3{
+	float: left;
+	margin-top: 70px;
+	background: url('noticia3.jpg')right top no-repeat #DDEEEE; height: 101px; width: 237px;
+}
+#noticia4{
+	float: none;
+	margin-top: 70px;
+	background: url('noticia4.jpg')right top no-repeat #DDEEEE;  height: 101px; width: 237px;
+}
+#noticia5{
+	float:right;
+	margin-top: 70px;
+	background: url('noticia5.jpg')right top no-repeat #DDEEEE;  height: 101px; width: 237px;
+}
+#noticia6{
+	float: left;
+	margin-top: 70px;
+	background: url('noticia6.jpg')right top no-repeat #DDEEEE;  height: 101px; width: 237px;
+}
+#noticia7{
+	float: none;
+	margin-top: 70px;
+	background: url('noticia7.jpg')right top no-repeat #DDEEEE;  height: 101px; width: 237px;
+}
+#noticia8{
+	float:right;
+	margin-top: 70px;
+	background: url('noticia8.jpg')right top no-repeat #DDEEEE;  height: 101px; width: 237px;
+}
+body footer#rodape1{
+	width: 1170px;
+	height: 284px;
+	background-color: #002753;
+}
+body footer#rodape2{
+	width: 1170px;
+	height: 52px;
+	background-color: #004B97;
+}
